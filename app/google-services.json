@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602531584184",
+    "project_id": "covid-19-update-11af0",
+    "storage_bucket": "covid-19-update-11af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602531584184:android:ec7094b94510a5a986bc4d",
+        "android_client_info": {
+          "package_name": "com.yadavsk.covid_19update"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602531584184-u2p08ob61f57aa65qd6ntlpefr5obobl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBANrDV4bRFH8-sIBCIvCUlisDjmgpEXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602531584184-u2p08ob61f57aa65qd6ntlpefr5obobl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
